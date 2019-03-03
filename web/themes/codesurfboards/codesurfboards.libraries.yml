@@ -1,0 +1,9 @@
+global-styling:
+  version: VERSION
+  css:
+    theme:
+      css/icon-font.css: {}
+      css/style.css: {}
+      
+  js:
+    js/custom.js: {}

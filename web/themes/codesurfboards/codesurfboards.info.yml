@@ -1,0 +1,6 @@
+name: Codes and Surfboards
+type: theme
+base theme: false
+core: 8.x
+libraries:
+  - codesurfboards/global-styling
